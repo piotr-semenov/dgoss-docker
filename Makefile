@@ -4,7 +4,7 @@
 
 SHELL := /bin/bash
 
-IMAGE_NAME = semenovp/tiny-goss
+IMAGE_NAME = semenovp/tiny-dgoss
 VCS_REF=$(shell git rev-parse --short HEAD)
 
 
